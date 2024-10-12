@@ -1,4 +1,4 @@
-![Screenshot 2024-10-12 113821](https://github.com/user-attachments/assets/7fdffcc6-7a41-4b16-b8b0-f05842442e92)# Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
+
 
 ## AIM
 
